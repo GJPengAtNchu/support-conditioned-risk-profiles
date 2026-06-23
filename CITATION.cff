@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Support-Conditioned Risk Profiles"
+message: "If you use this code, please cite the associated paper."
+type: software
+authors:
+  - family-names: "To be updated"
+    given-names: "Authors"
+repository-code: "https://github.com/[to-be-added]/support-conditioned-risk-profiles"
+date-released: "2026-06-23"
+license: "MIT"
+preferred-citation:
+  type: article
+  title: "Support-Conditioned Risk Profiles for Learning under Nonuniform Design"
+  authors:
+    - family-names: "To be updated"
+      given-names: "Authors"
+  year: 2026

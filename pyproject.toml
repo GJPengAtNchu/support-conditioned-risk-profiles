@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "support-conditioned-risk-profiles"
+version = "0.1.0"
+description = "Experiment code for Support-Conditioned Risk Profiles for Learning under Nonuniform Design."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  {name = "Authors"}
+]
+dependencies = [
+  "numpy>=1.24",
+  "pandas>=2.0",
+  "matplotlib>=3.7",
+  "scipy>=1.10",
+  "scikit-learn>=1.3",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["experiments*"]
