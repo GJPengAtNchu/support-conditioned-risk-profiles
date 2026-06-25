@@ -13,6 +13,8 @@ venv/
 *.blg
 *.synctex.gz
 *.pdf
+!main.pdf
+!supplement.pdf
 *.tex
 *.zip
 *.tar
