@@ -4,18 +4,17 @@ Lightweight GitHub release for the paper:
 
 **Support-Conditioned Risk Profiles for Model Evaluation under Heterogeneous Data Coverage**
 
-This lightweight GitHub release contains the compiled manuscript PDFs, lightweight
-code/configuration files, and compact result summaries. Large cached outputs, raw
-experiment artifacts, full-grid sensitivity results, and large figures are stored
-in the linked Google Drive folder.
+This lightweight GitHub release contains lightweight code/configuration files and
+compact result summaries. The manuscript PDFs are not tracked in this public
+GitHub release before publication. Large cached outputs, raw experiment
+artifacts, full-grid sensitivity results, and large figures are stored in the
+linked Google Drive folder.
 
 **LaTeX source files are not included in this release folder.**
 
 ## Contents
 
 ```text
-main.pdf              Finalized main manuscript.
-supplement.pdf        Finalized supplementary material.
 experiments/          Lightweight experiment scripts.
 scripts/              Utility and post-processing scripts.
 src/                  Small shared support-profile utilities.

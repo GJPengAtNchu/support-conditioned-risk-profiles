@@ -10,8 +10,6 @@ Large artifacts are stored in the linked Google Drive folder:
 
 ## Included In GitHub
 
-- `main.pdf`: finalized main manuscript.
-- `supplement.pdf`: finalized supplementary material.
 - `README.md`: release overview and Google Drive pointer.
 - `CITATION.cff`: citation metadata.
 - `LICENSE`: software license.
@@ -26,6 +24,8 @@ Large artifacts are stored in the linked Google Drive folder:
 - `docs/REPRODUCIBILITY.md`: reproduction notes.
 
 No LaTeX source files are included in `release/`.
+Manuscript PDFs are also not tracked in this public GitHub release before
+publication.
 
 ## Stored In Google Drive
 
